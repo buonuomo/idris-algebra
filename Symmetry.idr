@@ -1,3 +1,8 @@
+{- NOTE: I defined a notion of permutation here in two ways, but as it turns out,
+         there is already a similar notion defined in contrib/Control/Isomorphism/Vect,
+         so I may just end up using this
+-}
+
 module Control.Algebra.Symmetry
 
 import Interfaces.Verified
